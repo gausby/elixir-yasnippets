@@ -24,6 +24,8 @@
 
 (require 'yasnippet)
 
+(require 'elixir-snippet-helpers)
+
 (provide 'elixir-yasnippets)
 
 ;;; elixir-yasnippets.el ends here
